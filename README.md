@@ -4,6 +4,8 @@ In this project, we'll focus on the data mining aspects by applying Naive Bayes 
 
 Datasets for experimentation: spam.csv
 
+Code and analysis: Naive Bayes Spam.ipynb
+
 The dataset contains 5,574 messages tagged according to ham (legitimate) or spam. In this experiment, we will learn about text features, how to convert them into matrix form, and the Naive Bayes algorithm.
 
 Answer the following questions:
